@@ -1,5 +1,6 @@
-# Vidyut Baskar
+ # 😀 Vidyut Baskar
 
+**Student Developer (Engineer/Creator/Enthusiast)**
 <!--
 **Vidyut22/Vidyut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
