@@ -24,7 +24,7 @@
 
 ### 📊 Stats
 
-![Vidyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidybaskar&show_icons=true&theme=gruvbox)
+![Vidyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidybaskar&show_icons=true&theme=moltack)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vidybaskar&theme=gruvbox&border_radius=4.5) -->
 
