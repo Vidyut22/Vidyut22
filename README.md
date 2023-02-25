@@ -1,6 +1,8 @@
  # 😀 Vidyut Baskar
 
-**Student Developer (Engineer/Creator/Enthusiast)**
+**`Student Developer (Engineer/Creator/Enthusiast)`**
+
+I'm a full time student at Rensselaer Polytechnic Institute building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 ### 🧰 Languages and Tools
 
@@ -22,9 +24,8 @@
 
 #
 
-## 📈 Stats
+## 📊 Stats
 
- <h3>💻 GitHub Profile Stats</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img alt="Vidyut's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=vidybaskar&show_icons=true&include_all_commits=true&count_private=true&theme=moltack&&hide_border=true" height="192px">
  </a>
