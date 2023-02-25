@@ -22,13 +22,16 @@
 
 #
 
-### 📊 Stats
+## 📈 Stats
 
-![Vidyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidybaskar&show_icons=true&theme=moltack)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=vidybaskar&theme=gruvbox&border_radius=4.5) -->
-
-#
+ <h3>💻 GitHub Profile Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="Vidyut's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=vidybaskar&show_icons=true&include_all_commits=true&count_private=true&theme=moltack&&hide_border=true" height="192px">
+ </a>
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Vidyut's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidybaskar&langs_count=8&layout=compact&theme=moltack&&hide_border=true" height="192px">
+ 
 
 <details>
  <summary><h3>👨‍💻 Vidyut's Coding Journey</h3></summary>
